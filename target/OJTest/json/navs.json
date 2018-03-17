@@ -1,0 +1,51 @@
+[{
+	"title" : "后台首页",
+	"icon" : "icon-computer",
+	"href" : "page/main.html",
+	"spread" : false
+},{
+	"title" : "我的课程",
+	"icon" : "icon-text",
+	"href" : "page/course/course.jsp",
+	"spread" : false
+},{
+	"title" : "公告",
+	"icon" : "&#xe64c;",
+	"href" : "page/proclamation/proclamation.jsp",
+	"spread" : false
+},{
+	"title" : "文件",
+	"icon" : "&#xe621;",
+	"href" : "page/file/file.jsp",
+	"spread" : false
+},{
+	"title" : "师生交互",
+	"icon" : "&#xe611;",
+	"href" : "page/interaction/interaction.jsp",
+	"spread" : false
+}, {
+		"title" : "个人题库",
+		"icon" : "&#xe62a;",
+		"href" : "page/question/question.jsp",
+		"spread" : false
+	},	{
+	"title" : "其他页面",
+	"icon" : "&#xe630;",
+	"href" : "",
+	"spread" : false,
+	"children" : [
+		{
+			"title" : "404页面",
+			"icon" : "&#xe61c;",
+			"href" : "page/404.html",
+			"spread" : false
+		},
+		{
+			"title" : "登录",
+			"icon" : "&#xe609;",
+			"href" : "page/login/login.html",
+			"spread" : false,
+			"target" : "_blank"
+		}
+	]
+}]
