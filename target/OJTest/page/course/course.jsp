@@ -8,7 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>课程</title>
+    <title>course</title>
+    <link rel="stylesheet"href="../../layui/css/layui.css" media="all" />
+
+
 </head>
 <body>
 <h1>课程</h1>

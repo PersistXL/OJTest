@@ -9,8 +9,11 @@
 <html>
 <head>
     <title>course</title>
+    <link rel="stylesheet"href="../../layui/css/layui.css" media="all" />
+
+
 </head>
 <body>
-<h1>我的课程</h1>
+<h1>课程</h1>
 </body>
 </html>
