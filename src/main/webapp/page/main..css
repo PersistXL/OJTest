@@ -1,0 +1,70 @@
+body {
+    min-width: 1080px;
+    line-height: 1.5;
+    font-size: 14px;
+    background: #fff;
+    color: #333;
+    cursor: auto;
+    font-family: Helvetica,"Hiragino Sans GB","WenQuanYi Micro Hei","Microsoft YaHei",sans-serif,"Noto Sans CJK SC";
+    font-style: normal;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+.wrapper{
+    max-width: 77.14rem;
+    width: 100%;
+    margin: 0;
+}
+.left-frame{
+    float: left;
+    width: calc(100% - 330px - 10px);
+}
+.tab{
+    margin-left: 0;
+    margin-right: 0;
+    color: #737373;
+    height: 40px;
+    padding-top: 0;
+    padding-bottom: 0;
+    line-height: 40px;
+    margin-bottom: 10px;
+}
+div, span {
+    word-break: normal;
+}
+.right-frame {
+    float: right;
+    width: 330px;
+}
+.visit{
+    min-height: 150px;
+    position: relative;
+}
+.title {
+    font-size: 14px;
+    color: #737373;
+    height: 20px;
+}
+.title i {
+    float: left;
+    font-size: 22px;
+    margin: -7px 5px 0 0;
+}
+.todu{
+    min-height: 150px;
+     position: relative;
+      margin-bottom: 15px;
+    padding: 20px;
+    background-color: #fff;
+}
+.title {
+    font-size: 14px;
+    color: #737373;
+    height: 20px;
+}
+
+
+
